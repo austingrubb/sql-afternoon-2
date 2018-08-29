@@ -19,6 +19,7 @@ join Employee e on c.SupportRepId = e.EmployeeId*/
 from album al
 join artist ar on al.artistid = ar.artistid*/
 
+
 /*
 select pt.Trackid
 from PlaylistTrack pt
